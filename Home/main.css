@@ -102,7 +102,7 @@
 .introduce__scroll-down-btn{
     color: var(--white-color);
     font-size: 1.5rem;
-    animation: scrolldownbtn 1s infinite;
+    animation: scrolldownbtn--primary 1s infinite;
 }
 
 
